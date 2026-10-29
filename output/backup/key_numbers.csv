@@ -1,0 +1,9 @@
+name,value,description
+gap_per_decade_1990s,0.6924674922542489,"75th minus 25th percentile of exposure growth, 1990s ($1,000 per worker per decade, weighted)"
+gap_per_decade_2000s,1.5151680226253326,"75th minus 25th percentile of exposure growth, 2000s ($1,000 per worker per decade, weighted)"
+gap_2000_2007,1.0606176158377327,"Heavily vs. lightly exposed region (75th vs. 25th pct.), actual 2000-2007 exposure growth ($1,000 per worker); Lecture 5 uses 1.06"
+mean_exposure_1990s,1.1402717490556307,"Average growth in Chinese import exposure, 1990s ($1,000 per worker per decade, weighted)"
+mean_exposure_2000s,2.6272357184191772,"Average growth in Chinese import exposure, 2000s ($1,000 per worker per decade, weighted)"
+shock_ratio_2000s_vs_1990s,2.3040435059406192,How many times faster exposure grew in the 2000s than the 1990s
+corr_exposure_mshare90_1990s,0.517058121222587,"Correlation between exposure growth and 1990 factory share, 1990s (weighted)"
+corr_exposure_mshare90_2000s,0.5385434285536642,"Correlation between exposure growth and 1990 factory share, 2000s (weighted)"

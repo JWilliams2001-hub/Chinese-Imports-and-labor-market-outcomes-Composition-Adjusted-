@@ -1,0 +1,21 @@
+outcome,outcome_label,version,version_label,symbol,verdict,coef,pvalue
+d_sh_empl_mfg,Factory jobs,original,Original study,▼,Significant decrease,-0.5963600637163076,1.5639496364627803e-09
+d_sh_empl_mfg,Factory jobs,1990s,1990s only,⚠️,Weaker,-0.22216535575785556,0.18848655359620592
+d_sh_empl_mfg,Factory jobs,2000s,2000s only,✅,Holds,-0.4687246731302679,0.0001456333333658133
+d_sh_empl_mfg,Factory jobs,better_control,With better control,✅,Holds,-0.31405084868007904,0.000752107996216278
+d_sh_empl_nmfg,Jobs in other sectors,original,Original study,–,No clear effect,-0.1778668001079713,0.19433835502796715
+d_sh_empl_nmfg,Jobs in other sectors,1990s,1990s only,–,No clear effect,0.19463523725400655,0.3359665815848847
+d_sh_empl_nmfg,Jobs in other sectors,2000s,2000s only,–,No clear effect,0.2297922067641558,0.050699325900723125
+d_sh_empl_nmfg,Jobs in other sectors,better_control,With better control,–,No clear effect,0.1503646801833387,0.38143607633085663
+d_sh_unempl,Unemployment,original,Original study,▲,Significant increase,0.2209423594519837,0.00012457204282734224
+d_sh_unempl,Unemployment,1990s,1990s only,❌,Disappears or reverses,-0.0524426744722255,0.5490082822125202
+d_sh_unempl,Unemployment,2000s,2000s only,⚠️,Weaker,0.1090510170560437,0.26991527312093977
+d_sh_unempl,Unemployment,better_control,With better control,⚠️,Weaker,0.05255826264622965,0.4991063599798755
+d_sh_nilf,Leaving the workforce,original,Original study,▲,Significant increase,0.5532842824039736,0.00023279401470999161
+d_sh_nilf,Leaving the workforce,1990s,1990s only,⚠️,Weaker,0.07997315587398113,0.6111056590748212
+d_sh_nilf,Leaving the workforce,2000s,2000s only,⚠️,Weaker,0.12988118956719852,0.1253878982900758
+d_sh_nilf,Leaving the workforce,better_control,With better control,⚠️,Weaker,0.11112771675219094,0.45012673985064877
+d_avg_lnwkwage,Pay,original,Original study,▼,Significant decrease,-0.7592166807109457,0.0026476617877742026
+d_avg_lnwkwage,Pay,1990s,1990s only,❌,Disappears or reverses,0.9664681233659635,0.04332212515938938
+d_avg_lnwkwage,Pay,2000s,2000s only,⚠️,Weaker,-0.1345157377493731,0.707859856704409
+d_avg_lnwkwage,Pay,better_control,With better control,❌,Disappears or reverses,0.15500854087604665,0.6361304369647789
